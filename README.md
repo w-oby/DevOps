@@ -1,0 +1,1 @@
+Dit is onderdeel van Opdracht 2 Versiebeheer van cursus DevOps. Hiermee voer ik de opdracht uit en demonstreer ik dat ik de opdracht goed begrijp.
